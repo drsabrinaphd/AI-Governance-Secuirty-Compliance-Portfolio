@@ -5,4 +5,4 @@ Welcome! This repository serves as a practical showcase of my work in **AI Ethic
 
 [![Securiti AI Governance Certified](https://img.shields.io/badge/Securiti-AI_Governance_Certified-0052CC?style=for-the-badge&logo=shield)](https://education.securiti.ai/verification/144EF85D4-144EF83E9-13ECB6822/)
 
-https://badges.parchment.com/public/assertions/Vq5ABGHvQu6Cd7nUhdLkvg?identity__email=lampley.sabrina@spcollege.edu&action=download
+[![St. Petersburg College Verified Badge](https://img.shields.io/badge/Parchment-SPC_Verified_Digital_Badge-003366?style=for-the-badge&logo=education&logoColor=white)](https://badges.parchment.com/public/assertions/Vq5ABGHvQu6Cd7nUhdLkvg)
