@@ -1,7 +1,7 @@
 # Enterprise AI Security & Guardrails Framework
 **Framework Basis:** Google Secure AI Framework (SAIF), EC-Council Adopt-Defend-Govern Model, PMP Risk Governance  
 **Scope:** Machine Learning Lifecycle Security, Adversarial Defense, Data Privacy, and System Guardrails  
-**Author:** Securiti Certified AI Security & Governance Specialist  
+**Author:** Dr Sabrina Lampley, Securiti Certified AI Security & Governance Specialist  
 
 ---
 
